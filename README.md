@@ -35,6 +35,3 @@ The final Xgboost model achieved an RMSE (Root Mean Square Error) of 0.133 on th
 
 ## Contributors
 - [Anshul Raj](https://github.com/Anshul261)
-
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
